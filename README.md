@@ -189,6 +189,9 @@ Ensure these are set in production:
 - Verify form submissions
 - Test email functionality
 
+- ##test
+- http://localhost:5173/
+
 ## License
 
 This project is created for Like Me Family Beauty Hub. All rights reserved.
