@@ -191,6 +191,8 @@ Ensure these are set in production:
 
 - ##test
 - http://localhost:5173/
+- https://likemee.vercel.app/
+- 
 
 ## License
 
